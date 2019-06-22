@@ -1,10 +1,20 @@
+
 body {
   padding: 0px;
   font-family: sans-serif;
-  background: url("bg1.jpg");
+  background: url("bg3.jpg");
   background-repeat: no-repeat;
 }
 
+/*@media only screen and (width :400px){
+  body{
+    background: lightblue;
+    padding: 0px;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+  }
+}
+*/
 .main-body{
 	padding: 10px;
 }
